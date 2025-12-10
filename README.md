@@ -99,7 +99,6 @@
 
 ### 📊 Estatísticas
 
-<p>
   [![g01101100 GitHub stats](https://github-readme-stats.vercel.app/api?username=g01101100&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
@@ -109,4 +108,3 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=g01101100&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
