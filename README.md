@@ -99,12 +99,8 @@
 
 ### 📊 Estatísticas
 
-  [![g01101100 GitHub stats](https://github-readme-stats.vercel.app/api?username=g01101100)](https://github.com/anuraghazra/github-readme-stats)
+![g01101100 GitHub stats](https://github-readme-stats.vercel.app/api?username=g01101100&show_icons=true&theme=radical)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=g01101100&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g01101100&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+
 
