@@ -1,6 +1,43 @@
-# 🧑‍💻 g01101100
+# 🧑‍💻 0x6c67dead
 
-**`Desenvolvedor FullStack`**
+```bash
+$ whoami
+guilherme
+
+$ role
+fullstack developer
+
+$ system
+arch linux + hyprland
+
+$ status
+building systems from idea → deployment
+```
+
+### 🧠 Philosophy
+> “software is not just code.
+> it's controlled chaos turned into something useful.”
+
+### ⚙️ Stack
+frontend:  html | css | javascript | typescript | react | next.js | tailwind
+backend :  java | spring boot | python
+tools   :  git | linux | docker
+
+📡 system log
+```bash
+$ echo "connecting to github..."
+> active
+
+$ uptime
+> always learning
+
+$ echo "focus mode"
+> trying to escape infinite scroll loops
+```
+### 📝 note
+
+> systems are not built.
+> they are assembled from ideas, bugs, and iteration.
 
 ### 🤖 Linguagens e Tecnologias
 
