@@ -46,7 +46,7 @@ Host is up (0.00013s latency).
 
 PORT     STATE SERVICE       VERSION
 80/tcp   open  frontend      React, Next.js, Tailwind, TS/JS
-443/tcp  open  transport     Sec, Networking, Develop
+443/tcp  open  transport     Sec, Networking, Deploy, Cloud
 8080/tcp open  backend       Java, Spring Boot, Python, Django
 9090/tcp open  environment   Linux, Docker, Git, Neovim, AI
 
